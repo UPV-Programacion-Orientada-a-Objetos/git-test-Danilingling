@@ -1,4 +1,4 @@
-public class Dany_Java
+public class AnotherJava
 {
     public static void main (String[] args)
     {
